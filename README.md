@@ -1,6 +1,8 @@
 ## Hi there, I'm Arsenii Radoslavov 👋
 
 # About Me
+Software developer at [MicroBoard](https://microboard.io/)
+
 I enjoy TS and willing to expand my skiils and expertise
 
 # Hackatons
