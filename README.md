@@ -8,7 +8,7 @@ I enjoy TS and willing to expand my skiils and expertise
 # Hackatons
 HackFS2024 - [CryptoAlchemy](https://github.com/rogovenko/CryptoAlchemy) - participant
 
-# 📫 How to reach me:
+# How to reach me:
 Telegram: @idcsusema
 
 LinkedIn: www.linkedin.com/in/susema
