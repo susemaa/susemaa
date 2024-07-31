@@ -3,7 +3,7 @@
 # About Me
 Software developer at [MicroBoard](https://microboard.io/)
 
-I enjoy TS and willing to expand my skiils and expertise
+I enjoy TS and willing to expand my skills and expertise
 
 # Hackatons
 HackFS2024 - [CryptoAlchemy](https://github.com/rogovenko/CryptoAlchemy) - participant
