@@ -1,19 +1,12 @@
 ## Hi there, I'm Arsenii Radoslavov 👋
 
 # About Me
-Software developer at [MicroBoard](https://microboard.io/)
+JavaScript/TypeScript Engineer at [microboard.io](https://github.com/hyperboard/)
 
-I enjoy TS and willing to expand my skills and expertise
+Web3 Enthusiast
 
 # Hackatons
 HackFS2024 - [CryptoAlchemy](https://github.com/rogovenko/CryptoAlchemy) - participant
-
-# How to reach me:
-Telegram: @idcsusema
-
-LinkedIn: www.linkedin.com/in/susema
-
-Email: rad.archeg@gmail.com
 
 <!--
 **susemaa/susemaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
