@@ -5,6 +5,9 @@ JavaScript/TypeScript Engineer at [microboard.io](https://github.com/hyperboard/
 
 Web3 Enthusiast
 
+# Open Source
+[NextRetro](https://github.com/susemaa/next_retro) - Retro tool for distributed teams
+
 # Hackatons
 HackFS2024 - [CryptoAlchemy](https://github.com/rogovenko/CryptoAlchemy) - participant
 
