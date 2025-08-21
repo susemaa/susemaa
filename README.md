@@ -8,6 +8,8 @@ Web3 Enthusiast
 # Hackatons
 HackFS2024 - [CryptoAlchemy](https://github.com/rogovenko/CryptoAlchemy) - participant
 
+ETHGlobal Bangkok - [LoveLedger](https://github.com/Egv2/LoveLedger-v1) - participant
+
 <!--
 **susemaa/susemaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
