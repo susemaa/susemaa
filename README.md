@@ -1,9 +1,9 @@
 ## Hi there, I'm Arsenii Radoslavov 👋
 
 # About Me
-JavaScript/TypeScript Engineer at [microboard.io](https://github.com/hyperboard/)
+Software engineer attracted to architectural complexity and unsolved problems
 
-Web3 Enthusiast
+Active in web3 and AI tooling.
 
 # Open Source
 [NextRetro](https://github.com/susemaa/next_retro) - Retro tool for distributed teams
